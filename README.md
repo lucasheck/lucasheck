@@ -11,9 +11,10 @@ I'm actually working with front-end and studying React, React-Native and Typescr
 </div>
 
 ##
-
+<div>
 <img alt="Js-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="HTML-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="CSS-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img alt="Csharp-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img alt="Csharp-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+</div>
