@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Lucas and I'm a Web developer.
 
-I'm actually working with front-end and studying React, React-Native and Typescript.
+I'm currently studying to become a Full Stack Developer learning React, Node, Typescript languages.
+
+Feel free to contact me at <a href="mailto:lucasheck23@gmail.com">lucasheck23@gmail.com</a>
 
 ##
 
@@ -14,7 +16,11 @@ I'm actually working with front-end and studying React, React-Native and Typescr
 ##
 <div>
   
+
+
+            
 <img alt="React-Badge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img alt="Node-Badge" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img alt="Js-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="HTML-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="CSS-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
