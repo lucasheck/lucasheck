@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Lucas and I'm a Web developer.
 
-I'm currently studying to become a Full Stack Developer learning React, Node, Typescript languages.
+I'm currently studying to become a Full Stack Developer learning React, Node, Typescript language.
 
 Feel free to contact me at <a href="mailto:lucasheck23@gmail.com">lucasheck23@gmail.com</a>
 
