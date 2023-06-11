@@ -15,10 +15,10 @@ If you have any questions, exciting projects, or just want to connect, feel free
 
 ##
 <div align="center">
-<img alt="React-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"/>
-<img alt="Node-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />
-<img alt="Typescript-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" />
-<img alt="Js-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">
-<img alt="HTML-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
+<img alt="React-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"/>&nbsp;&nbsp;
+<img alt="Node-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
+<img alt="Typescript-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" />&nbsp;&nbsp;
+<img alt="Js-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
+<img alt="HTML-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">&nbsp;&nbsp;
 <img alt="CSS-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">
 </div>
