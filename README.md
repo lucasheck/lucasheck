@@ -1,8 +1,8 @@
-### Hi there 👋 My name is Lucas and I'm a Web developer.
+#### Hello there! 👋 My name is Lucas, and I'm a passionate web developer on a journey to becoming a skilled Full Stack Developer. 
 
-I'm currently studying to become a Full Stack Developer learning React, React Native, Node and Typescript language.
+I'm dedicated to expanding my knowledge and expertise in technologies like React, React Native, Node.js, and TypeScript.
 
-Feel free to contact me at <a href="mailto:lucasheck23@gmail.com">lucasheck23@gmail.com</a>
+If you have any questions, exciting projects, or just want to connect, feel free to reach out to me at <a href="mailto:lucasheck23@gmail.com">lucasheck23@gmail.com</a>.
 
 ##
 
@@ -14,16 +14,11 @@ Feel free to contact me at <a href="mailto:lucasheck23@gmail.com">lucasheck23@gm
 </div>
 
 ##
-<div>
-  
-
-
-            
-<img alt="React-Badge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img alt="Node-Badge" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img alt="Js-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="HTML-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="CSS-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img alt="Csharp-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img alt="Csharp-Badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<div align="center">
+<img alt="React-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"/>
+<img alt="Node-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />
+<img alt="Typescript-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" />
+<img alt="Js-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">
+<img alt="HTML-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
+<img alt="CSS-Badge" height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">
 </div>
