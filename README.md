@@ -2,7 +2,9 @@
 
 I'm dedicated to expanding my knowledge and expertise in technologies like React, React Native, Node.js, and TypeScript.
 
-If you have any questions, exciting projects, or just want to connect, feel free to reach out to me at <a href="mailto:lucasheck23@gmail.com">lucasheck23@gmail.com</a>.
+Feel free to check out my <a href="https://portfolio-zeta-fawn-30.vercel.app/" target="_blank">Portfolio</a>
+
+If you have any questions, exciting projects, or just want to connect, you can reach out to me at <a href="mailto:lucasheck23@gmail.com">lucasheck23@gmail.com</a>.
 
 ##
 
